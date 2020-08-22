@@ -13,6 +13,12 @@
       "description": "Model con textura QR con parche de DarkAlex"
     },
      {
+      "namepatch": "Hit Legens",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Hit%20By%20Minami.patch",
+      "urlicono": "https://i.ibb.co/t433dLR/HitIcon.png",
+      "description": "Mezcla del model XV2 y Legens con parche de DarkAlex"
+    },
+     {
       "namepatch": "Whis Dragon ball Xenoverse",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Whis%20By%20minami.patch",
       "urlicono": "https://i.ibb.co/m4X4TrS/WhisIcon.jpg",
@@ -23,12 +29,6 @@
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Bills%20XV2%20by%20minami.patch",
       "urlicono": "https://i.ibb.co/56z7DSy/Bills-Icon.png",
       "description": "Bills por de Dragon ball Xenoverse con parche de Dani C. Tercero"
-    },
-     {
-      "namepatch": "Hit Legens",
-      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Hit%20By%20Minami.patch",
-      "urlicono": "https://i.ibb.co/t433dLR/HitIcon.png",
-      "description": "Mezcla del model XV2 y Legens con parche de DarkAlex"
     },
      {
       "namepatch": "Jiren Xenoverse 2",
