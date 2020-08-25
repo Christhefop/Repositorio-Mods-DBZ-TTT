@@ -14,7 +14,7 @@
     },
      {
       "namepatch": "Broly DBS Xenoverse",
-      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Hit%20By%20Minami.patch",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20skin%20XV2.patch",
       "urlicono": "https://i.ibb.co/41mXgbV/Borly-Incon.jpg",
       "description": "Model port XV2 con textura de Demon Ashura Mods y parche de DarkAlex""
     },
@@ -44,7 +44,7 @@
     },
      {
       "namepatch": "Jiren Xenoverse 2",
-      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Jiren%20Port%20XV2%20By%20minami.patch",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/JirenXV2%20SkinXV2.patch",
       "urlicono": "https://i.ibb.co/dMpVGRV/Jiren-Icon.jpg",
       "description": "Jiren port de XV2 con textura por Demon Ashura Mods y parche de DarkAlex"
     },
