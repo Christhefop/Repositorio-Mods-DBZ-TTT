@@ -7,6 +7,12 @@
     
     "listpatchrepositori": [
     {
+      "namepatch": "Broly DBS Xenoverse",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20skin%20XV2.patch",
+      "urlicono": "https://i.ibb.co/41mXgbV/Borly-Incon.jpg",
+      "description": "Model port XV2 con textura de Demon Ashura Mods y parche de DarkAlex"
+    },
+     {
       "namepatch": "Broly DBS SSJ Legendario",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20by%20minami.patch",
       "urlicono": "https://i.ibb.co/rbSF0vV/Broly-Icon.png",
