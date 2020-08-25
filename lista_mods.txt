@@ -22,7 +22,7 @@
       "namepatch": "Bills Xenoverse 2",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Bills%20XV2%20by%20minami.patch",
       "urlicono": "https://i.ibb.co/56z7DSy/Bills-Icon.png",
-      "description": "Bills por de Dragon ball Xenoverse con parche de Dani C. Tercero"
+      "description": "Bills port de Dragon ball Xenoverse con parche de Dani C. Tercero"
     },
      {
       "namepatch": "Hit Legens",
