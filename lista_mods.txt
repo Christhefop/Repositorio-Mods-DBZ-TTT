@@ -25,16 +25,16 @@
       "description": "Bills por de Dragon ball Xenoverse con parche de Dani C. Tercero"
     },
      {
-      "namepatch": "Broly DBS SSJ Legendario",
-      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20by%20minami.patch",
-      "urlicono": "https://i.ibb.co/rbSF0vV/Broly-Icon.png",
-      "description": "Model port Dragon Ball Xenoverse 2 con parche de DarkAlex"
-    },
-     {
       "namepatch": "Hit Legens",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Hit%20By%20Minami.patch",
       "urlicono": "https://i.ibb.co/t433dLR/HitIcon.png",
       "description": "Mezcla del model XV2 y Legens con parche de DarkAlex"
+    },
+     {
+      "namepatch": "Broly DBS SSJ Legendario",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20by%20minami.patch",
+      "urlicono": "https://i.ibb.co/rbSF0vV/Broly-Icon.png",
+      "description": "Model port Dragon Ball Xenoverse 2 con parche de DarkAlex"
     },
      {
       "namepatch": "Whis Xenoverse",
