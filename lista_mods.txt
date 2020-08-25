@@ -25,6 +25,12 @@
       "description": "Whis port de Dragon Ball Xenoverse con parche de Dani C. Tercero"
     },
      {
+      "namepatch": "Bills Xenoverse 2",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Bills%20XV2%20by%20minami.patch",
+      "urlicono": "https://i.ibb.co/56z7DSy/Bills-Icon.png",
+      "description": "Bills por de Dragon ball Xenoverse con parche de Dani C. Tercero"
+    },
+     {
       "namepatch": "Jiren Xenoverse 2 Textura HQ",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Jiren%20Port%20XV2%20By%20minami.patch",
       "urlicono": "https://i.ibb.co/Jt5gzSr/Jiren-XVIcon.png",
