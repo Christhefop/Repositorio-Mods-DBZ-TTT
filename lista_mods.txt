@@ -13,6 +13,18 @@
       "description": "Model port XV2 con textura de Demon Ashura Mods y parche de DarkAlex"
     },
      {
+      "namepatch": "Jiren Xenoverse 2",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/JirenXV2%20SkinXV2.patch",
+      "urlicono": "https://i.ibb.co/dMpVGRV/Jiren-Icon.jpg",
+      "description": "Jiren port de XV2 con textura por Demon Ashura Mods y parche de DarkAlex"
+    },
+     {
+      "namepatch": "Bills Xenoverse 2",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Bills%20XV2%20by%20minami.patch",
+      "urlicono": "https://i.ibb.co/56z7DSy/Bills-Icon.png",
+      "description": "Bills por de Dragon ball Xenoverse con parche de Dani C. Tercero"
+    },
+     {
       "namepatch": "Broly DBS SSJ Legendario",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20by%20minami.patch",
       "urlicono": "https://i.ibb.co/rbSF0vV/Broly-Icon.png",
@@ -29,18 +41,6 @@
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Whis%20By%20minami.patch",
       "urlicono": "https://i.ibb.co/m4X4TrS/WhisIcon.jpg",
       "description": "Whis port de Dragon Ball Xenoverse con parche de Dani C. Tercero"
-    },
-     {
-      "namepatch": "Bills Xenoverse 2",
-      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Bills%20XV2%20by%20minami.patch",
-      "urlicono": "https://i.ibb.co/56z7DSy/Bills-Icon.png",
-      "description": "Bills por de Dragon ball Xenoverse con parche de Dani C. Tercero"
-    },
-     {
-      "namepatch": "Jiren Xenoverse 2",
-      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/JirenXV2%20SkinXV2.patch",
-      "urlicono": "https://i.ibb.co/dMpVGRV/Jiren-Icon.jpg",
-      "description": "Jiren port de XV2 con textura por Demon Ashura Mods y parche de DarkAlex"
     },
      {
       "namepatch": "Jiren Xenoverse 2 Textura HQ",
