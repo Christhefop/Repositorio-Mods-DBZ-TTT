@@ -1,9 +1,9 @@
 {
     "title":"Minami",
-    "titlecolor":"#ff5dff",
+    "titlecolor":"#b250ff",
     "Bannerurl":"https://i.ibb.co/9rh2MCy/Banner.png",
-    "backgroundcolor":"#ab00bc",
-    "listbackgroundcolor":"#e200ef",
+    "backgroundcolor":"#3c00bb",
+    "listbackgroundcolor":"#7a12ef",
     
     "listpatchrepositori": [
     {
