@@ -8,79 +8,79 @@
     "listpatchrepositori": [
     {
       "namepatch": "Bills XV2 textura TTT",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Bills%20XV2-normal%20by%20minami.patch",
       "urlicono": "https://i.ibb.co/zbLC4RS/bills-normal.jpg",
-      "description": "Parche de Dani C. Tercero"
+      "description": "Nodel port XV2 con Parche por Dani C. Tercero"
     },
     {
       "namepatch": "Broly XV2 Fire",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20skin%20XV2%20Fuego.patch",
       "urlicono": "https://i.ibb.co/hZyTwXb/broly-skin-fire.jpg",
       "description": "Model port XV2 con textura de Demon Ashura Mods y parche de DarkAlex"
     },
     {
       "namepatch": "Goku SSJ4 Xenoverse",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Goku%20SSj4-XV.bin",
       "urlicono": "https://i.ibb.co/Ss1MPHT/goku-ssj4-icon.jpg",
       "description": "Model port XV2 "
     },
     {
       "namepatch": "Kale Legens-XV2",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Kale-XV-Legens.bin",
       "urlicono": "https://i.ibb.co/tCZd1Lk/kale-icon.jpg",
       "description": "Parche de prueba"
     },
     {
       "namepatch": "Kefla XV-HQ",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Kefla(HQ).patch",
       "urlicono": "https://i.ibb.co/q022GH4/kefla-icon.jpg",
       "description": "Model port XV con Parche por Gohan ZS"
     },
     {
       "namepatch": "Kefla XV",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Kefla(XV).patch",
       "urlicono": "https://i.ibb.co/RS9yh8P/kefla-xv.jpg",
       "description": "Model con textura por Ashura Demon y Parche por Gohan ZS"
     },
     {
       "namepatch": "Kefla XV Trake roto",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Kefla(XV-roto).patch",
       "urlicono": "https://i.ibb.co/Vg7mTts/kefla-xv-roto-icon.jpg",
       "description": "Model con textura por Ashura Demon y Parche por Gohan ZS"
     },
     {
       "namepatch": "Androide 21 Base",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/N21-normal.patch",
       "urlicono": "https://i.ibb.co/1MQfv2d/n21.jpg",
       "description": "Model port Fighter Z con parche de prueba"
     },
     {
       "namepatch": "Androide 21 Base HQ",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/N21-HQ.patch",
       "urlicono": "https://i.ibb.co/sqnxC1k/n21-un.jpg",
       "description": "Model port Fighter Z con parche de prueba"
     },
     {
       "namepatch": "Towa Traje Bikini",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Towa-Bikini.patch",
       "urlicono": "https://i.ibb.co/THFGq3B/towa-bikini-icon.jpg",
       "description": "Towa port XV2 con parche prueba"
     },
     {
       "namepatch": "Vados Trake Bikini",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Vados-bikini.patch",
       "urlicono": "https://i.ibb.co/9HNxVtd/vados-bikini-icon.jpg",
       "description": "Vados port XV2 con parche prueba"
     },
     {
       "namepatch": "Vados Normal",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Vados-normal.patch",
       "urlicono": "https://i.ibb.co/d6R0fSK/vados-icon.jpg",
       "description": "Vados port XV2 con parche prueba"
     },
     {
       "namepatch": "Vados HQ",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Vados-HQ.patch",
       "urlicono": "https://i.ibb.co/hZS0j8Z/vados-un-icon.jpg",
       "description": "Vados port XV2 con parche prueba"
     },
