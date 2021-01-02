@@ -3,7 +3,7 @@
     "titlecolor":"#e98100",
     "Bannerurl":"https://i.ibb.co/9rh2MCy/Banner.png",
     "backgroundcolor":"#000000",
-    "listbackgroundcolor":"#80f0a040",
+    "listbackgroundcolor":"#e200ef",
     
     "listpatchrepositori": [
     {
