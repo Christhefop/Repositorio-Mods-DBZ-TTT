@@ -1,4 +1,4 @@
-{
+rr{
     "title":"Minami",
     "titlecolor":"#e98100",
     "Bannerurl":"https://i.ibb.co/JpWKLGT/Banner.png",
@@ -6,6 +6,84 @@
     "listbackgroundcolor":"#80f0a040",
     
     "listpatchrepositori": [
+    {
+      "namepatch": "Bills XV2 textura TTT",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/zbLC4RS/bills-normal.jpg",
+      "description": "Parche de Dani C. Tercero"
+    },
+    {
+      "namepatch": "Broly XV2 Fire",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/hZyTwXb/broly-skin-fire.jpg",
+      "description": "Model port XV2 con textura de Demon Ashura Mods y parche de DarkAlex"
+    },
+    {
+      "namepatch": "Goku SSJ4 Xenoverse",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/Ss1MPHT/goku-ssj4-icon.jpg",
+      "description": "Model port XV2 "
+    },
+    {
+      "namepatch": "Kale Legens-XV2",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/tCZd1Lk/kale-icon.jpg",
+      "description": "Parche de prueba"
+    },
+    {
+      "namepatch": "Kefla XV-HQ",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/q022GH4/kefla-icon.jpg",
+      "description": "Model port XV con Parche por Gohan ZS"
+    },
+    {
+      "namepatch": "Kefla XV",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/RS9yh8P/kefla-xv.jpg",
+      "description": "Model con textura por Ashura Demon y Parche por Gohan ZS"
+    },
+    {
+      "namepatch": "Kefla XV Trake roto",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/Vg7mTts/kefla-xv-roto-icon.jpg",
+      "description": "Model con textura por Ashura Demon y Parche por Gohan ZS"
+    },
+    {
+      "namepatch": "Androide 21 Base",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/1MQfv2d/n21.jpg",
+      "description": "Model port Fighter Z con parche de prueba"
+    },
+    {
+      "namepatch": "Androide 21 Base HQ",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/sqnxC1k/n21-un.jpg",
+      "description": "Model port Fighter Z con parche de prueba"
+    },
+    {
+      "namepatch": "Towa Traje Bikini",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/THFGq3B/towa-bikini-icon.jpg",
+      "description": "Towa port XV2 con parche prueba"
+    },
+    {
+      "namepatch": "Vados Trake Bikini",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/9HNxVtd/vados-bikini-icon.jpg",
+      "description": "Vados port XV2 con parche prueba"
+    },
+    {
+      "namepatch": "Vados Normal",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/d6R0fSK/vados-icon.jpg",
+      "description": "Vados port XV2 con parche prueba"
+    },
+    {
+      "namepatch": "Vados HQ",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/hZS0j8Z/vados-un-icon.jpg",
+      "description": "Vados port XV2 con parche prueba"
+    },
     {
       "namepatch": "Broly DBS Xenoverse 2",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20skin%20XV2.patch",
