@@ -1,6 +1,6 @@
 {
     "title":"Minami",
-    "titlecolor":"#e98100",
+    "titlecolor":"#e200ef",
     "Bannerurl":"https://i.ibb.co/9rh2MCy/Banner.png",
     "backgroundcolor":"#000000",
     "listbackgroundcolor":"#e200ef",
