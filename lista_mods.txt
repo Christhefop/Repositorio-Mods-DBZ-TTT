@@ -1,8 +1,8 @@
 {
     "title":"Minami",
-    "titlecolor":"#e200ef",
+    "titlecolor":"#ff5dff",
     "Bannerurl":"https://i.ibb.co/9rh2MCy/Banner.png",
-    "backgroundcolor":"#000000",
+    "backgroundcolor":"#ab00bc",
     "listbackgroundcolor":"#e200ef",
     
     "listpatchrepositori": [
@@ -79,12 +79,6 @@
       "description": "Mezcla de model Legens-XV2 (Parche de prueba)"
     },
     {
-      "namepatch": "Bills XV2 textura TTT",
-      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Bills%20XV2-normal%20by%20minami.patch",
-      "urlicono": "https://i.ibb.co/zbLC4RS/bills-normal.jpg",
-      "description": "Model port XV2 con Parche por Dani C. Tercero"
-    },
-    {
       "namepatch": "Broly DBS Xenoverse 2",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20skin%20XV2.patch",
       "urlicono": "https://i.ibb.co/41mXgbV/Borly-Incon.jpg",
@@ -95,6 +89,12 @@
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/JirenXV2%20SkinXV2.patch",
       "urlicono": "https://i.ibb.co/dMpVGRV/Jiren-Icon.jpg",
       "description": "Jiren port de Xenoverse 2 con textura por Demon Ashura Mods y parche de DarkAlex"
+    },
+    {
+      "namepatch": "Bills XV2 textura TTT",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Bills%20XV2-normal%20by%20minami.patch",
+      "urlicono": "https://i.ibb.co/zbLC4RS/bills-normal.jpg",
+      "description": "Model port XV2 con Parche por Dani C. Tercero"
     },
      {
       "namepatch": "Bills Xenoverse 2",
