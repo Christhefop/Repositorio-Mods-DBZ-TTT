@@ -16,25 +16,25 @@
       "namepatch": "Broly XV2 Fire",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Broly%20DBS%20skin%20XV2%20Fuego.patch",
       "urlicono": "https://i.ibb.co/hZyTwXb/broly-skin-fire.jpg",
-      "description": "Model port XV2 con textura de Demon Ashura Mods y parche de DarkAlex"
+      "description": "Model port Xenoverse 2 con textura de Demon Ashura Mods y parche de DarkAlex"
     },
     {
       "namepatch": "Kefla XV-HQ",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Kefla(HQ).patch",
       "urlicono": "https://i.ibb.co/q022GH4/kefla-icon.jpg",
-      "description": "Model port XV con Parche por Gohan ZS"
+      "description": "Model port Xenoverse 2 con Parche por Gohan ZS"
     },
     {
       "namepatch": "Kefla XV",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Kefla(XV).patch",
       "urlicono": "https://i.ibb.co/RS9yh8P/kefla-xv.jpg",
-      "description": "Model con textura por Demon Ashura y Parche por Gohan ZS"
+      "description": "Model port Xenoverse 2 con textura por Demon Ashura y Parche por Gohan ZS"
     },
     {
       "namepatch": "Kefla XV Trake roto",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Kefla(XV-roto).patch",
       "urlicono": "https://i.ibb.co/Vg7mTts/kefla-xv-roto-icon.jpg",
-      "description": "Model con textura por Demon Ashura y Parche por Gohan ZS"
+      "description": "Modelport Xenoverse 2 con textura por Demon Ashura y Parche por Gohan ZS"
     },
     {
       "namepatch": "Androide 21 Base",
