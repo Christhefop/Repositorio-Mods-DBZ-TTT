@@ -7,22 +7,16 @@
     
     "listpatchrepositori": [
     {
+      "namepatch": "Meliodas",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/RhxnsHd/meliodas-icon.jpg",
+      "description": "Sate sate sate? \n\n(Parche prueba)"
+    },
+    {
       "namepatch": "Ban",
       "urlpatch": "",
       "urlicono": "https://i.ibb.co/2d1QkMq/ban-icon.jpg",
       "description": "Nunca muere el pto xd \n\n(Parche prueba)"
-    },
-    {
-      "namepatch": "Darieri",
-      "urlpatch": "",
-      "urlicono": "https://i.ibb.co/PhSTPfs/darieri-icon.jpg",
-      "description": "Desnuda pero nadie se da cuenta :v \n\n(Parche prueba)"
-    },
-    {
-      "namepatch": "Elizabeth",
-      "urlpatch": "",
-      "urlicono": "https://i.ibb.co/286zFyx/elizabeth-icon.jpg",
-      "description": "La mas hermosa mujer que hayas conocido\n\n(Parche prueba)"
     },
     {
       "namepatch": "Escanor",
@@ -31,16 +25,22 @@
       "description": "Bien mamado pero menos cuadrado que el culo de tu novia :v\n\n(Parche prueba)"
     },
     {
-      "namepatch": "Meliodas",
+      "namepatch": "Elizabeth",
       "urlpatch": "",
-      "urlicono": "https://i.ibb.co/RhxnsHd/meliodas-icon.jpg",
-      "description": "Sate sate sate? \n\n(Parche prueba)"
+      "urlicono": "https://i.ibb.co/286zFyx/elizabeth-icon.jpg",
+      "description": "La mas hermosa mujer que hayas conocido\n\n(Parche prueba)"
     },
     {
       "namepatch": "Merlin",
       "urlpatch": "",
       "urlicono": "https://i.ibb.co/gZqbv5r/merlin-icon.jpg",
       "description": "Si te acercas se le ve la raya :v \n\n(parche prueba)"
+    },
+    {
+      "namepatch": "Darieri",
+      "urlpatch": "",
+      "urlicono": "https://i.ibb.co/PhSTPfs/darieri-icon.jpg",
+      "description": "Desnuda pero nadie se da cuenta :v \n\n(Parche prueba)"
     },
     {
       "namepatch": "Goku SSJ4 Xenoverse",
