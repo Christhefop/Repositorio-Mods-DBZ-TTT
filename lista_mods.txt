@@ -91,7 +91,7 @@
       "description": "Towa port Xenoverse 2 en su trake bikini (Parche prueba)"
     },
     {
-      "namepatch": "Vados Trake Bikini",
+      "namepatch": "Vados Traje Bikini",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Vados-bikini.patch",
       "urlicono": "https://i.ibb.co/9HNxVtd/vados-bikini-icon.jpg",
       "description": "Vados port Xenoverse 2 en su trake bikini (Parche prueba)"
