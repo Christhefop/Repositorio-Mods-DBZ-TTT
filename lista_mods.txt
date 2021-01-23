@@ -67,7 +67,7 @@
       "description": "Model port Xenoverse 2 con textura por Demon Ashura y Parche por Gohan ZS"
     },
     {
-      "namepatch": "Kefla XV Trake roto",
+      "namepatch": "Kefla XV Traje roto",
       "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/Kefla(XV-roto).patch",
       "urlicono": "https://i.ibb.co/Vg7mTts/kefla-xv-roto-icon.jpg",
       "description": "Modelport Xenoverse 2 con textura por Demon Ashura y Parche por Gohan ZS"
