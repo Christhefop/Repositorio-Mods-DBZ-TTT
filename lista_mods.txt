@@ -8,37 +8,37 @@
     "listpatchrepositori": [
     {
       "namepatch": "Meliodas",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/NNT-MODS/Meliodas/Parche-prueba.PCK1",
       "urlicono": "https://i.ibb.co/RhxnsHd/meliodas-icon.jpg",
       "description": "Sate sate sate? \n\n(Parche prueba)"
     },
     {
       "namepatch": "Ban",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/NNT-MODS/Ban/Parche-prueba.PCK1",
       "urlicono": "https://i.ibb.co/2d1QkMq/ban-icon.jpg",
       "description": "Nunca muere el pto xd \n\n(Parche prueba)"
     },
     {
       "namepatch": "Escanor",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/NNT-MODS/Escanor/Parche-prueba.PCK1",
       "urlicono": "https://i.ibb.co/xm82v1C/escanor-icon.jpg",
       "description": "Bien mamado pero menos cuadrado que el culo de tu novia :v\n\n(Parche prueba)"
     },
     {
       "namepatch": "Elizabeth",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/NNT-MODS/Elizabeth/Parche-prueba.PCK1",
       "urlicono": "https://i.ibb.co/286zFyx/elizabeth-icon.jpg",
       "description": "La mas hermosa mujer que hayas conocido\n\n(Parche prueba)"
     },
     {
       "namepatch": "Merlin",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/NNT-MODS/Merlin/Parche-prueba.PCK1",
       "urlicono": "https://i.ibb.co/gZqbv5r/merlin-icon.jpg",
       "description": "Si te acercas se le ve la raya :v \n\n(parche prueba)"
     },
     {
       "namepatch": "Darieri",
-      "urlpatch": "",
+      "urlpatch": "https://github.com/Darckness1/Repositorio-Mods-DBZ-TTT/raw/master/NNT-MODS/Darieri/Parche-prueba.PCK1",
       "urlicono": "https://i.ibb.co/PhSTPfs/darieri-icon.jpg",
       "description": "Desnuda pero nadie se da cuenta :v \n\n(Parche prueba)"
     },
